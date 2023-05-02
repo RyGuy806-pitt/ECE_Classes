@@ -14,7 +14,7 @@ Completed - Fall 2021
 Included Files - VHDL Code to simulate the entire functionality of a CPU
 
 ********Simulations********
-Completed - Spring 2023
+Completed - Spring 2023 - 
 See Read Me file in Simulations Folder for further Detail
 
 ********Design Projects********
