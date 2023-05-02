@@ -13,6 +13,10 @@ Included Files - Matlab simulations of the NN setups in Machine Learning algorit
 Completed - Fall 2021
 Included Files - VHDL Code to simulate the entire functionality of a CPU
 
-*********Design Projects********
+********Simulations********
+Completed - Spring 2023
+See Read Me file in Simulations Folder for further Detail
+
+********Design Projects********
 Completed - Fall 2021
 Included Files - MicroController Code, PCB board designs, and circuit schematics
